@@ -1,4 +1,4 @@
-ggit commit -m "init commit"---
+ggit commit -m "init commit"gi---
 meta:
   environment: python
   toolchain:
